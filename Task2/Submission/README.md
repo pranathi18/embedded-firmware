@@ -1,4 +1,4 @@
-**Task2**
+
 # VSDSquadron Mini Blinky & UART Assignment **Task2**
 
 ## Summary
@@ -14,3 +14,4 @@ Firmware Structure:  No direct register access in main.c. Used SPL functions lik
 Learning:  Studied header and source files (ch32v00x.h / ch32v00x.c) to understand clock control, GPIO registers, and how the SPL functions work.
 
 Reference: CH32V003 Vanilla GCC Repository
+
